@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0057</id>
+  <client>
+    <name>Krajina Impex</name>
+    <jib>5678901234567</jib>
+    <email>office@krajinaimpex.com</email>
+  </client>
+  <date>2026-03-13</date>
+  <currency>BAM</currency>
+  <items>
+    <item>
+      <description>Racunovodstvene usluge</description>
+      <quantity>-1</quantity>
+      <unitPrice>335.00</unitPrice>
+    </item>
+  </items>
+</invoice>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0005</id>
+  <client>
+    <name>Vrbas Doo</name>
+    <jib>4567890123456</jib>
+    <email>info@vrbas.rs</email>
+  </client>
+  <date>2025-12-25</date>
+  <currency>CHF</currency>
+  <items>
+    <item>
+      <description>Dizajn</description>
+      <quantity>4</quantity>
+      <unitPrice>247.00</unitPrice>
+    </item>
+    <item>
+      <description>Dizajn</description>
+      <quantity>5</quantity>
+      <unitPrice>317.00</unitPrice>
+    </item>
+    <item>
+      <description>Dizajn</description>
+      <quantity>8</quantity>
+      <unitPrice>453.00</unitPrice>
+    </item>
+  </items>
+</invoice>

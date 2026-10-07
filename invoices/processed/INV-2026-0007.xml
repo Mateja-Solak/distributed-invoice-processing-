@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0007</id>
+  <client>
+    <name>Drina Petrol</name>
+    <jib>8901234567890</jib>
+    <email>info@drinapetrol.ba</email>
+  </client>
+  <date>2026-04-16</date>
+  <currency>GBP</currency>
+  <items>
+    <item>
+      <description>Odrzavanje sistema</description>
+      <quantity>5</quantity>
+      <unitPrice>308.00</unitPrice>
+    </item>
+    <item>
+      <description>Oprema</description>
+      <quantity>6</quantity>
+      <unitPrice>509.00</unitPrice>
+    </item>
+  </items>
+</invoice>

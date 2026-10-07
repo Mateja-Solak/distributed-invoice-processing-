@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0044</id>
+  <client>
+    <name>Motajica Agro</name>
+    <jib>9012345678901</jib>
+    <email>agro@motajica.rs</email>
+  </client>
+  <date>2025-11-25</date>
+  <currency>CHF</currency>
+  <items>
+    <item>
+      <description>Racunovodstvene usluge</description>
+      <quantity>4</quantity>
+      <unitPrice>360.00</unitPrice>
+    </item>
+  </items>
+</invoice>

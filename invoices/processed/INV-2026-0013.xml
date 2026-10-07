@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0013</id>
+  <client>
+    <name>Sava Logistika</name>
+    <jib>7890123456789</jib>
+    <email>office@savalogistika.rs</email>
+  </client>
+  <date>2026-04-10</date>
+  <currency>CHF</currency>
+  <items>
+    <item>
+      <description>Konsalting</description>
+      <quantity>3</quantity>
+      <unitPrice>332.00</unitPrice>
+    </item>
+    <item>
+      <description>Licenca softvera</description>
+      <quantity>4</quantity>
+      <unitPrice>412.00</unitPrice>
+    </item>
+  </items>
+</invoice>

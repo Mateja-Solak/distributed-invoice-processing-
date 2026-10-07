@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0092</id>
+  <client>
+    <name>Telekom Srpske</name>
+    <jib>2345678901234</jib>
+    <email>nevalidan-email</email>
+  </client>
+  <date>2026-01-22</date>
+  <currency>BAM</currency>
+  <items>
+    <item>
+      <description>Hosting</description>
+      <quantity>3</quantity>
+      <unitPrice>340.00</unitPrice>
+    </item>
+    <item>
+      <description>Transport</description>
+      <quantity>3</quantity>
+      <unitPrice>139.00</unitPrice>
+    </item>
+    <item>
+      <description>Licenca softvera</description>
+      <quantity>4</quantity>
+      <unitPrice>337.00</unitPrice>
+    </item>
+  </items>
+</invoice>

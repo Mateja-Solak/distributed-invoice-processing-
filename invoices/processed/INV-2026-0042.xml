@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0042</id>
+  <client>
+    <name>Kozara Tekstil</name>
+    <jib>0123456789012</jib>
+    <email>tekstil@kozara.ba</email>
+  </client>
+  <date>2026-03-23</date>
+  <currency>BAM</currency>
+  <items>
+    <item>
+      <description>Marketing usluge</description>
+      <quantity>3</quantity>
+      <unitPrice>370.00</unitPrice>
+    </item>
+  </items>
+</invoice>

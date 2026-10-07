@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0059</id>
+  <client>
+    <name>Motajica Agro</name>
+    <jib>9012345678901</jib>
+    <email>agro@motajica.rs</email>
+  </client>
+  <date>2026-02-16</date>
+  <currency>GBP</currency>
+  <items>
+    <item>
+      <description>Racunovodstvene usluge</description>
+      <quantity>4</quantity>
+      <unitPrice>98.00</unitPrice>
+    </item>
+    <item>
+      <description>Racunovodstvene usluge</description>
+      <quantity>8</quantity>
+      <unitPrice>22.00</unitPrice>
+    </item>
+  </items>
+</invoice>

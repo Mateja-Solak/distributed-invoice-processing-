@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0027</id>
+  <client>
+    <name>Una Systems</name>
+    <jib>6789012345678</jib>
+    <email>sales@unasystems.ba</email>
+  </client>
+  <date>2026-06-08</date>
+  <currency>USD</currency>
+  <items>
+    <item>
+      <description>Odrzavanje sistema</description>
+      <quantity>1</quantity>
+      <unitPrice>298.00</unitPrice>
+    </item>
+  </items>
+</invoice>

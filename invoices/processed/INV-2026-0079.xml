@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0079</id>
+  <client>
+    <name>Sava Logistika</name>
+    <jib>7890123456789</jib>
+    <email>office@savalogistika.rs</email>
+  </client>
+  <date>2026-01-28</date>
+  <currency>GBP</currency>
+  <items>
+    <item>
+      <description>Hosting</description>
+      <quantity>1</quantity>
+      <unitPrice>265.00</unitPrice>
+    </item>
+    <item>
+      <description>Racunovodstvene usluge</description>
+      <quantity>8</quantity>
+      <unitPrice>439.00</unitPrice>
+    </item>
+    <item>
+      <description>Web development</description>
+      <quantity>8</quantity>
+      <unitPrice>419.00</unitPrice>
+    </item>
+  </items>
+</invoice>

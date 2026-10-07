@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0008</id>
+  <client>
+    <name>ETF Banja Luka</name>
+    <jib>1234567891012</jib>
+    <email>fakture@etf.com</email>
+  </client>
+  <date>2026-01-05</date>
+  <currency>EUR</currency>
+  <items>
+    <item>
+      <description>Licenca softvera</description>
+      <quantity>4</quantity>
+      <unitPrice>496.00</unitPrice>
+    </item>
+    <item>
+      <description>Web development</description>
+      <quantity>6</quantity>
+      <unitPrice>103.00</unitPrice>
+    </item>
+  </items>
+</invoice>

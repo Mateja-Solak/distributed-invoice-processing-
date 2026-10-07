@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/aggregator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aggregator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/approval-gui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/approval-gui/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/approval/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/approval/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enrichment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enrichment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor-gui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor-gui/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parser/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parser/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restapi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/restapi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tools/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/watcher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/watcher/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0065</id>
+  <client>
+    <name>Drina Petrol</name>
+    <jib>8901234567890</jib>
+    <email>info@drinapetrol.ba</email>
+  </client>
+  <date>2026-06-17</date>
+  <currency>CHF</currency>
+  <items>
+    <item>
+      <description>Racunovodstvene usluge</description>
+      <quantity>2</quantity>
+      <unitPrice>348.00</unitPrice>
+    </item>
+    <item>
+      <description>Oprema</description>
+      <quantity>3</quantity>
+      <unitPrice>88.00</unitPrice>
+    </item>
+    <item>
+      <description>Licenca softvera</description>
+      <quantity>5</quantity>
+      <unitPrice>401.00</unitPrice>
+    </item>
+  </items>
+</invoice>

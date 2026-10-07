@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0032</id>
+  <client>
+    <name>Drina Petrol</name>
+    <jib>8901234567890</jib>
+    <email>info@drinapetrol.ba</email>
+  </client>
+  <date>2026-01-24</date>
+  <currency>GBP</currency>
+  <items>
+    <item>
+      <description>Web development</description>
+      <quantity>10</quantity>
+      <unitPrice>423.00</unitPrice>
+    </item>
+  </items>
+</invoice>

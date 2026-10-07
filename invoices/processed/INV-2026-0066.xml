@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0066</id>
+  <client>
+    <name>Kozara Tekstil</name>
+    <jib>0123456789012</jib>
+    <email>tekstil@kozara.ba</email>
+  </client>
+  <date>2026-04-22</date>
+  <currency>CHF</currency>
+  <items>
+    <item>
+      <description>Web development</description>
+      <quantity>9</quantity>
+      <unitPrice>417.00</unitPrice>
+    </item>
+    <item>
+      <description>Racunovodstvene usluge</description>
+      <quantity>4</quantity>
+      <unitPrice>469.00</unitPrice>
+    </item>
+    <item>
+      <description>Transport</description>
+      <quantity>9</quantity>
+      <unitPrice>382.00</unitPrice>
+    </item>
+  </items>
+</invoice>

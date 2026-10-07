@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0039</id>
+  <client>
+    <name>Una Systems</name>
+    <jib>6789012345678</jib>
+    <email>sales@unasystems.ba</email>
+  </client>
+  <date>2025-11-23</date>
+  <currency>EUR</currency>
+  <items>
+    <item>
+      <description>Dizajn</description>
+      <quantity>2</quantity>
+      <unitPrice>228.00</unitPrice>
+    </item>
+    <item>
+      <description>Hosting</description>
+      <quantity>3</quantity>
+      <unitPrice>376.00</unitPrice>
+    </item>
+    <item>
+      <description>Oprema</description>
+      <quantity>5</quantity>
+      <unitPrice>175.00</unitPrice>
+    </item>
+  </items>
+</invoice>

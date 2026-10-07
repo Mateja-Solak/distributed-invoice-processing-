@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0100</id>
+  <client>
+    <name>Una Systems</name>
+    <jib>6789012345678</jib>
+    <email>sales@unasystems.ba</email>
+  </client>
+  <date>2025-12-28</date>
+  <currency>EUR</currency>
+  <items>
+    <item>
+      <description>Konsalting</description>
+      <quantity>9</quantity>
+      <unitPrice>226.00</unitPrice>
+    </item>
+    <item>
+      <description>Web development</description>
+      <quantity>3</quantity>
+      <unitPrice>248.00</unitPrice>
+    </item>
+    <item>
+      <description>Web development</description>
+      <quantity>7</quantity>
+      <unitPrice>46.00</unitPrice>
+    </item>
+  </items>
+</invoice>

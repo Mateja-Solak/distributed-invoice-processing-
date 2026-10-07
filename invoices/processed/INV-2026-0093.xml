@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0093</id>
+  <client>
+    <name>Telekom Srpske</name>
+    <jib>2345678901234</jib>
+    <email>racuni@telekomsrpske.ba</email>
+  </client>
+  <date>2026-09-20</date>
+  <currency>BAM</currency>
+  <items>
+    <item>
+      <description>Web development</description>
+      <quantity>6</quantity>
+      <unitPrice>36.00</unitPrice>
+    </item>
+    <item>
+      <description>Transport</description>
+      <quantity>1</quantity>
+      <unitPrice>370.00</unitPrice>
+    </item>
+  </items>
+</invoice>

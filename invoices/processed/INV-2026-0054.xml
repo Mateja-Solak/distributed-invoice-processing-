@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0054</id>
+  <client>
+    <name>Krajina Impex</name>
+    <jib>5678901234567</jib>
+    <email>office@krajinaimpex.com</email>
+  </client>
+  <date>2026-01-01</date>
+  <currency>EUR</currency>
+  <items>
+    <item>
+      <description>Hosting</description>
+      <quantity>9</quantity>
+      <unitPrice>385.00</unitPrice>
+    </item>
+    <item>
+      <description>Transport</description>
+      <quantity>5</quantity>
+      <unitPrice>235.00</unitPrice>
+    </item>
+  </items>
+</invoice>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="ApprovalGuiController"
+            prefWidth="700" prefHeight="450">
+    <left>
+        <ListView fx:id="invoiceList" prefWidth="180" BorderPane.alignment="CENTER"/>
+    </left>
+    <center>
+        <TextArea fx:id="detailsArea" editable="false" wrapText="true" BorderPane.alignment="CENTER"/>
+    </center>
+    <bottom>
+        <VBox spacing="4">
+            <padding>
+                <Insets top="4" right="4" bottom="4" left="4"/>
+            </padding>
+            <Label text="Razlog odbijanja:"/>
+            <TextArea fx:id="reasonArea" prefRowCount="3"/>
+            <HBox spacing="8" alignment="CENTER">
+                <Button fx:id="approveButton" text="Odobri"/>
+                <Button fx:id="rejectButton" text="Odbij"/>
+            </HBox>
+        </VBox>
+    </bottom>
+</BorderPane>

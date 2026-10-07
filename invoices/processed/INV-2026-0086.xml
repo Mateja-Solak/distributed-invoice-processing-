@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0086</id>
+  <client>
+    <name>Boska Trade</name>
+    <jib>3456789012345</jib>
+    <email>kontakt@boskatrade.com</email>
+  </client>
+  <date>2026-06-16</date>
+  <currency>CHF</currency>
+  <items>
+    <item>
+      <description>Hosting</description>
+      <quantity>3</quantity>
+      <unitPrice>384.00</unitPrice>
+    </item>
+    <item>
+      <description>Licenca softvera</description>
+      <quantity>4</quantity>
+      <unitPrice>381.00</unitPrice>
+    </item>
+  </items>
+</invoice>

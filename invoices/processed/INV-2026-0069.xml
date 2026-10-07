@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0069</id>
+  <client>
+    <name>Telekom Srpske</name>
+    <jib>2345678901234</jib>
+    <email>nevalidan-email</email>
+  </client>
+  <date>2026-08-18</date>
+  <currency>USD</currency>
+  <items>
+    <item>
+      <description>Licenca softvera</description>
+      <quantity>2</quantity>
+      <unitPrice>278.00</unitPrice>
+    </item>
+    <item>
+      <description>Hosting</description>
+      <quantity>10</quantity>
+      <unitPrice>509.00</unitPrice>
+    </item>
+    <item>
+      <description>Marketing usluge</description>
+      <quantity>2</quantity>
+      <unitPrice>202.00</unitPrice>
+    </item>
+  </items>
+</invoice>

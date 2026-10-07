@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0002</id>
+  <client>
+    <name>Boska Trade</name>
+    <jib>3456789012345</jib>
+    <email>kontakt@boskatrade.com</email>
+  </client>
+  <date>2026-08-14</date>
+  <currency>EUR</currency>
+  <items>
+    <item>
+      <description>Web development</description>
+      <quantity>4</quantity>
+      <unitPrice>219.00</unitPrice>
+    </item>
+  </items>
+</invoice>

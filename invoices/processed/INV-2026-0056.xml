@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0056</id>
+  <client>
+    <name>ETF Banja Luka</name>
+    <jib>1234567891012</jib>
+    <email>fakture@etf.com</email>
+  </client>
+  <date>2026-09-02</date>
+  <currency>BAM</currency>
+  <items>
+    <item>
+      <description>Web development</description>
+      <quantity>2</quantity>
+      <unitPrice>119.00</unitPrice>
+    </item>
+  </items>
+</invoice>

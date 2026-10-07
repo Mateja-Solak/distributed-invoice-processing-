@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0037</id>
+  <client>
+    <name>Vrbas Doo</name>
+    <jib>4567890123456</jib>
+    <email>info@vrbas.rs</email>
+  </client>
+  <date>2025-08-11</date>
+  <currency>GBP</currency>
+  <items>
+    <item>
+      <description>Odrzavanje sistema</description>
+      <quantity>8</quantity>
+      <unitPrice>251.00</unitPrice>
+    </item>
+    <item>
+      <description>Marketing usluge</description>
+      <quantity>1</quantity>
+      <unitPrice>339.00</unitPrice>
+    </item>
+    <item>
+      <description>Marketing usluge</description>
+      <quantity>3</quantity>
+      <unitPrice>17.00</unitPrice>
+    </item>
+  </items>
+</invoice>

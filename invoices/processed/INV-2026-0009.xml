@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0009</id>
+  <client>
+    <name>ETF Banja Luka</name>
+    <jib>1234567891012</jib>
+    <email>fakture@etf.com</email>
+  </client>
+  <date>2026-02-24</date>
+  <currency>GBP</currency>
+  <items>
+    <item>
+      <description>Racunovodstvene usluge</description>
+      <quantity>4</quantity>
+      <unitPrice>119.00</unitPrice>
+    </item>
+    <item>
+      <description>Odrzavanje sistema</description>
+      <quantity>9</quantity>
+      <unitPrice>489.00</unitPrice>
+    </item>
+    <item>
+      <description>Racunovodstvene usluge</description>
+      <quantity>7</quantity>
+      <unitPrice>433.00</unitPrice>
+    </item>
+  </items>
+</invoice>

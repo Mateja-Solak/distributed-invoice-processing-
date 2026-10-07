@@ -1,0 +1,17 @@
+<invoice>
+<id>INV-2028-0001</id>
+<client>
+<name>Elektroprivreda RS</name>
+<jib>4400855600001</jib>
+<email>fakture@ers.ba</email>
+</client>
+<date>2026-06-06</date>
+<currency>CHF</currency>
+<items>
+<item>
+<description>Obuka zaposlenih</description>
+<quantity>11</quantity>
+<unitPrice>472.20</unitPrice>
+</item>
+</items>
+</invoice>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0083</id>
+  <client>
+    <name>Krajina Impex</name>
+    <jib>5678901234567</jib>
+    <email>office@krajinaimpex.com</email>
+  </client>
+  <date>2026-07-24</date>
+  <currency>USD</currency>
+  <items>
+    <item>
+      <description>Licenca softvera</description>
+      <quantity>6</quantity>
+      <unitPrice>81.00</unitPrice>
+    </item>
+    <item>
+      <description>Dizajn</description>
+      <quantity>2</quantity>
+      <unitPrice>458.00</unitPrice>
+    </item>
+    <item>
+      <description>Hosting</description>
+      <quantity>8</quantity>
+      <unitPrice>158.00</unitPrice>
+    </item>
+  </items>
+</invoice>

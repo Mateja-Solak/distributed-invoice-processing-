@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <id>INV-2026-0051</id>
+  <client>
+    <name>Una Systems</name>
+    <jib>123</jib>
+    <email>sales@unasystems.ba</email>
+  </client>
+  <date>2026-02-01</date>
+  <currency>BAM</currency>
+  <items>
+    <item>
+      <description>Transport</description>
+      <quantity>6</quantity>
+      <unitPrice>158.00</unitPrice>
+    </item>
+    <item>
+      <description>Web development</description>
+      <quantity>8</quantity>
+      <unitPrice>296.00</unitPrice>
+    </item>
+    <item>
+      <description>Odrzavanje sistema</description>
+      <quantity>7</quantity>
+      <unitPrice>411.00</unitPrice>
+    </item>
+  </items>
+</invoice>
